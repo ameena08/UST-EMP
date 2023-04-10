@@ -8,7 +8,6 @@ import {HttpClientModule} from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { EmployeeRegService } from './employee-reg.service';
 
-
 @NgModule({
   declarations: [
     AppComponent,
